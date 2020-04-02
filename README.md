@@ -1,2 +1,2 @@
 # hello-github
-Just a repositor.
+Just a repository.
